@@ -1,4 +1,4 @@
 def saludar():
-    print("Hola desde el equipo A")
-
+print("hola desde el equipo A")
+print("Este es un taller de git")
 saludar()
